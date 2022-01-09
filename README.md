@@ -1,34 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Multisig ETH Wallet NextJS Boilerpalte
 
-## Getting Started
+This boilerplate covers all the basic smart contract functionality you need to create a multisignature wallet app for your business or organisation. I created this contract as a proposal for my school's student government, but once naming is tweaked everything should work fine.
 
-First, run the development server:
+run 'truffle test' before changing names on any variables or migration scripts - just to see if all test blocks check out ✅
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Build files will automatically be compiled to the public directory for easy integration into your front end.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Smart Contract Archive
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Repositories with the -archive notation are practice projects to demonstrate my ability to write functional Solidity code with real world use cases. I also use these as educational material for some of the peer-to-peer mentorship I do on the side.
